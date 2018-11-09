@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Nene',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-20.jpg',
 		scores: [
 			'1',
 			'5',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Kenya',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-2.jpg',
 		scores: [
 			'2',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Porsha',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-32.jpg',
 		scores: [
 			'4',
 			'3',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Sheree',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-4.jpg',
 		scores: [
 			'5',
 			'1',
@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Kandi',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-9.jpg',
 		scores: [
 			'1',
 			'1',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Cynthia',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg',
 		scores: [
 			'1',
 			'1',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Marlo',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals-2/cute-baby-animals-2-2.jpg',
 		scores: [
 			'5',
 			'4',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Phaedra',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-27.jpg',
 		scores: [
 			'5',
 			'2',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ace',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-16.jpg',
 		scores: [
 			'5',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Gregg',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		photo: 'https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-17.jpg',
 		scores: [
 			'1',
 			'1',
